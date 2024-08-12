@@ -1,0 +1,23 @@
+.cover-page {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cover-page p {
+    margin: 0 0 15px;
+}
+
+.cover-page .address,
+.cover-page .date,
+.cover-page .recipient,
+.cover-page .greeting,
+.cover-page .closing {
+    margin-bottom: 15px;
+}
+
+.cover-page .body-text {
+    margin-bottom: 15px;
+    text-align: justify;
+}
